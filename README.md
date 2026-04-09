@@ -26,6 +26,4 @@ Dependencies:
 - Saving a text report: `python system_health_check.py --output my_report.txt`
 - Saving a JSON report: `python system_health_check.py --output data.json --format json`
 
-## Requirements
-- Python 3x
-- `psutil` libary
+
