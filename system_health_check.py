@@ -78,7 +78,7 @@ def main():
     argument = parser.parse_args()
 
     if argument.format and not argument.output:
-        parser.error
+        parser.error("This process cannot be completed")
 
     hn, osn, ipa = get_system_info()
     cpu, mem, disk = get_resource_usage()
