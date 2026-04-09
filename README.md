@@ -11,7 +11,7 @@ The purpose of this project was to create a Python-based command-line interface 
 
 ## Installation
 Clone
-- git clone https://github.com/juan-rami/python-system-health-check.git
+- `git clone https://github.com/juan-rami/python-system-health-check.git`
 - `cd python-system-health-check`
 
 Virtual Environment:
