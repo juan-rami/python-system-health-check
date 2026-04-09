@@ -1,0 +1,14 @@
+## System Health Report
+
+Hostname: juans-puter
+Operating System: Linux
+IP Address: 127.0.1.1
+
+CPU Usage: 5.1%
+Memory Usage: 20.5%
+Disk Free Space: 952 GB
+
+Internet Connectivity: OK
+Ping to 8.8.8.8: SUCCESS
+
+Uptime: 5 days, 23 hours

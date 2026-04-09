@@ -1,0 +1,11 @@
+{
+    "hostname": "juans-puter",
+    "operating_system": "Linux",
+    "ip_address": "127.0.1.1",
+    "cpu_usage_percent": 5.0,
+    "memory_usage_percent": 20.6,
+    "disk_free_gb": 952,
+    "internet_connectivity": "OK",
+    "ping_result": "SUCCESS",
+    "uptime": "5 days, 23 hours"
+}
